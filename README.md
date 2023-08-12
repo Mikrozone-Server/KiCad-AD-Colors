@@ -1,4 +1,19 @@
-# KiCad-Altium-Colors
-Color scheme based on Altium for KiCad
+# [KiCad](https://kicad.org/) color theme inspired by popular Australians [PCB](https://www.altium.com/altium-designer) software
 
-Save files into "C:\Users\USERNAME\AppData\Roaming\kicad\7.0\colors\"
+## Screenshots
+
+![eeschema](./resources/eeschema.png)
+![pcbnew](./resources/pcbnew.png)
+
+## Instalation
+
+Drop the file `colors/ad.json` into the following color themes directory:
+
+Linux: `~/.config/kicad/<version>/colors`
+Windows XP: "C:\Documents and Settings\<username>\Application Data" + kicad (= %APPDATA%\kicad) + "<version>/colors":
+Windows Vista & later: "C:\Users\<username>AppData\Roaming" + kicad (= %APPDATA%\kicad) + "<version>/colors"
+OSX: `~/Library/Preferences/kicad/<version>/colors`
+
+## Release
+
+`zip -r KiCad-AD-Colors.zip colors resources metadata.json -x '**/.*' -x '**/__MACOSX'`

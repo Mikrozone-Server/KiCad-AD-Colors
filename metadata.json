@@ -1,0 +1,25 @@
+{
+  "$schema": "https://go.kicad.org/pcm/schemas/v1",
+  "name": "Kicad-AD",
+  "description": "Color theme inspired by other PCB SW",
+  "description_full": "Color theme inspired by popular Australians PCB software",
+  "identifier": "com.github.Mikrozone-Server.KiCad-AD-Colors",
+  "type": "colortheme",
+  "author": {
+    "name": "Mikrozone",
+    "contact": {
+      "web": "https://mikrozone.sk"
+    }
+  },
+  "license": "MIT",
+  "resources": {
+    "homepage": "https://github.com/Mikrozone-Server/KiCad-AD-Colors"
+  },
+  "versions": [
+    {
+      "version": "1.0",
+      "status": "stable",
+      "kicad_version": "7.0"
+    }
+  ]
+}
