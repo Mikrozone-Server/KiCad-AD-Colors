@@ -2,8 +2,8 @@
 
 ## Screenshots
 
-![eeschema](./resources/eeschema.png)
-![pcbnew](./resources/pcbnew.png)
+![eeschema](./eeschema.png)
+![pcbnew](./pcbnew.png)
 
 ## Instalation
 
