@@ -1,2 +1,5 @@
 # Folder view configuration files
 .DS_Store
+
+# Release archive
+KiCad-AD-Colors.zip
