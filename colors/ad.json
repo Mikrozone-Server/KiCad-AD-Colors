@@ -197,7 +197,7 @@
     "no_connect": "rgb(255, 0, 0)",
     "note": "rgb(0, 0, 194)",
     "note_background": "rgba(0, 0, 0, 0.000)",
-    "override_item_colors": true,
+    "override_item_colors": false,
     "page_limits": "rgb(0, 0, 0)",
     "pin": "rgb(0, 0, 0)",
     "pin_name": "rgb(0, 0, 0)",
